@@ -578,7 +578,8 @@ header .nav li a:hover {
 	overflow: hidden;
 }
 .isotope-item {
-	margin-bottom: 20px;
+	margin-bottom: 20px:
+        width: 100%;
 }
 .isotope-item .btn-default {
 	color: #999999;
