@@ -579,7 +579,6 @@ header .nav li a:hover {
 }
 .isotope-item {
 	margin-bottom: 20px; 
-        width: 100%;
 }
 .isotope-item .btn-default {
 	color: #999999;
@@ -1121,6 +1120,9 @@ header .nav li a:hover {
      .home-section-background p {
          font-size: 12px;
       }
+      .isotope-item {
+	 width: 100%;
+       }
 }
 
 
